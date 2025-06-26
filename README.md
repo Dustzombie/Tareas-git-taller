@@ -1,2 +1,2 @@
-# Tareas-git-taller-prueba
+# Tareas-git-taller
 university stuff, run along now
